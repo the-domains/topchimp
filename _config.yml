@@ -1,6 +1,6 @@
 name: topchimp
 favicon: null
-layout_spectrum: 0.885872938670218
+layout_spectrum: 0.92676
 typography_spectrum: 0.5329954854678363
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#00768e'
   brandStrength: 0.625
   lightness: 0.10290662106126547
-  saturation: 0.5453663088846952
+  saturation: 0.5
   rhythmicContrast: 0.47200983157381415
 purpose: []
