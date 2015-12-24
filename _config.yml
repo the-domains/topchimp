@@ -1,0 +1,28 @@
+name: topchimp
+favicon: null
+layout_spectrum: 0.885872938670218
+typography_spectrum: 0.5329954854678363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5641659952234477
+  lightness: 0.10290662106126547
+  saturation: 0.5453663088846952
+  rhythmicContrast: 0.47200983157381415
+purpose: []
