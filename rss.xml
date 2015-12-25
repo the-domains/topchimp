@@ -4,14 +4,14 @@
         <description><![CDATA[topchimp]]></description>
         <link>https://thegrid.ai/topchimp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 16:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 16:34:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/topchimp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test post]]></title>
             <description><![CDATA[<article><h1>Test post</h1><p>Tets post to see what happens and will update to see if pictures appear!</p></article>]]></description>
             <link>https://thegrid.ai/topchimp/test-post/index.html</link>
             <guid isPermaLink="false">cffd1afd-fb43-434a-84ef-d831bf6f3f45</guid>
-            <pubDate>Fri, 25 Dec 2015 16:33:26 GMT</pubDate>
+            <pubDate>Fri, 25 Dec 2015 16:34:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
